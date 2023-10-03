@@ -1,2 +1,2 @@
 ls
-yum dnf install
+dnf list installed
