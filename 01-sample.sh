@@ -1,0 +1,2 @@
+ls
+yum dnf install
