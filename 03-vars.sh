@@ -7,7 +7,7 @@ a=10
 x=100
 y=true
 name=Devops
-p= a * x
+p= expr (a * x)
 
 # How to access those variables
 
