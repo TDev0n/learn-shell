@@ -11,4 +11,6 @@ name=Devops
 
 # How to access those variables
 
-echo value of the a = $a
+echo value of the a =
+
+echo the out price is p = $a * $x
