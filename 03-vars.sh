@@ -7,10 +7,10 @@ a=10
 x=100
 y=true
 name=Devops
-p= a*x
+p= a * x
 
 # How to access those variables
 
-echo value of the a =
+echo value of the a = $a
 
 echo the out price is p = $p
