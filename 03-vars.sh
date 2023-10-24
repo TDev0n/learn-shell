@@ -1,6 +1,6 @@
 # If we name some data it is called as variable
 
-# Syntaxe to decalre a variable
+# Syntaxe to declare a variable
 # var_name-data
 
 a=10
